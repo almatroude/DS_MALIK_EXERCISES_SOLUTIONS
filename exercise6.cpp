@@ -9,7 +9,7 @@ using namespace std;
 bool is_right_triangle1(int num1, int num2, int num3);
 bool is_right_triangle2(int num1, int num2, int num3);
 bool is_right_triangle3(int num1, int num2, int num3);
-bool is_pythagoras(int num1, int num2, int num3);
+bool is_(int num1, int num2, int num3);
 
 int main()
 {
